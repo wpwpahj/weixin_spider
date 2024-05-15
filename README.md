@@ -20,7 +20,7 @@
 
 ## 参考效果
 
-您可以查看以下链接，以了解我们爬取公众号文章的效果示例：![文档]![img.png](img.png)(wx.jpg)[点击查看效果](https://www.abinbintech.com/)
+您可以查看以下链接，以了解我们爬取公众号文章的效果示例：![img.png](img.png)(wx.jpg)[点击查看效果](https://www.abinbintech.com/)
 
 ## 获取方式
 
